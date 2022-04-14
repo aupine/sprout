@@ -1,2 +1,2 @@
-# sprout
-Sprout Nuker for Discord
+# Sprout
+Nuker and Utility Tool for Discord
